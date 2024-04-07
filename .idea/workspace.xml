@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d0722d-6ce8-494f-8cf7-ff1fcb0f0833" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/CurrentDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AvgDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AvgDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Provider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weather.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712497832563</updated>
-      <workItem from="1712497833227" duration="1649000" />
+      <workItem from="1712497833227" duration="2099000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -102,16 +99,5 @@
     <MESSAGE value="first Commit for main" />
     <MESSAGE value="First Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
